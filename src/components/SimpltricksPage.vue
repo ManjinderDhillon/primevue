@@ -14,7 +14,7 @@
 
       <i class="pi pi-question-circle"></i>
 
-      <DropDown placeholder="Sales unit" />
+      <DropDown placeholder="Sales units" />
 
       <span class="p-buttonset">
         <ButTon label="Accending" />
@@ -27,7 +27,7 @@
     <div
       class="m-4 bg-white p-3 border-round flex md:justify-content-start justify-content-center"
     >
-      <DropDown placeholder="Sales unit" />
+      <DropDown placeholder="Sales units" />
     </div>
     <div class="grid gap-2 mx-4 flex md:flex-row flex-column">
       <CaRd

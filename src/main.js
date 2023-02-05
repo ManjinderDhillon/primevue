@@ -32,8 +32,6 @@ app.component("CaRd", CaRd);
 app.component("ColumnGroup", ColumnGroup);
 app.component("TableRow", TableRow);
 
-//optional for row
-
 app.component("DataTable", DataTable);
 app.component("ContextMenu", ContextMenu);
 
