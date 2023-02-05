@@ -1,14 +1,14 @@
 <template>
-  <MicroSoft />
+  <Simpltricks />
 </template>
 
 <script>
-import MicroSoft from "./components/MicroSoft.vue";
+import Simpltricks from "./components/SimpltricksPage.vue";
 
 export default {
   name: "App",
   components: {
-    MicroSoft,
+    Simpltricks,
   },
 };
 </script>
