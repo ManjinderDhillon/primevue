@@ -1,5 +1,5 @@
 <template>
-  <Simpltricks />
+  <gridComponent />
 </template>
 <script>
 export default {
@@ -7,5 +7,5 @@ export default {
 };
 </script>
 <script setup>
-import Simpltricks from "./components/SimpltricksPage.vue";
+import gridComponent from "./components/gridComponent.vue";
 </script>
